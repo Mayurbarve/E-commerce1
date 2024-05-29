@@ -1,6 +1,8 @@
 # E-commerce
 # E-Commerce Website README
 
+https://mayurbarve.github.io/E-commerce1/
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
